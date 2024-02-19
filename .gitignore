@@ -5,6 +5,7 @@
 *.jpeg
 *.csv
 *.html
+*.lock
 data/clean
 data/enhanced
 data/raw
